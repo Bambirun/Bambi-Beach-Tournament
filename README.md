@@ -5,7 +5,7 @@
 
 ## 🏐 Description
 
-**BBT (Bambi Beach Tournament)** est une plateforme web complète de gestion de tournois sportifs de type beach sport. Elle permet aux organisateurs de créer et gérer des tournois avec des tableaux automatisés, et aux joueurs de s'inscrire et suivre leurs matchs en temps réel.
+**BBT (Bambi Beach Tournament)** est une plateforme web complète de gestion de tournois sportifs. Elle permet aux organisateurs de créer et gérer des tournois avec des tableaux automatisés, et aux joueurs de s'inscrire et suivre leurs matchs en temps réel.
 
 ## ✨ Fonctionnalités Complètes
 
